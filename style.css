@@ -1,0 +1,11 @@
+div {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+video {
+  max-width: auto;
+  min-width: 200px;
+  height: auto;
+}
